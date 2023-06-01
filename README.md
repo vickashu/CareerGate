@@ -6,7 +6,7 @@ Before setting up the project, make sure you have the following software install
 - Node.js 
 - MongoDB 
 
-# To starte the server :
+# To start the server :
   npm start
   
 ## Install dependencies 
